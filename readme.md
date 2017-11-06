@@ -22,3 +22,15 @@ npm install
 ```
 npm start
 ```
+
+## Edit
+
+Edit  `src/index.ts` and add other TypeScript files the way you see fit. Edit `src/assets/template.html` to change the HTML used by webpack.
+
+## License
+
+This package is released under [Unlicense](http://unlicense.org) meaning you can do pretty much anything you want with it.
+
+## Contribute
+
+The goal is to keep this as simple as possible, so no features should be added. Having said that, if you feel that something is missing for the basic purpose of TypeScript experimentation, feel free to submit a pull request. 
