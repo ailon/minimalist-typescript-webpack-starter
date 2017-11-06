@@ -10,10 +10,16 @@ All you need to get started is [Node.js](https://nodejs.org/) and [npm](https://
 
 ## Install
 
-Just clone this repository and install dependencies.
+Just download the source or clone this repository 
 
 ```
 git clone https://github.com/ailon/minimalist-typescript-webpack-starter.git .
+```
+
+(you may want to delete the `.git` directory to remove the association with this repo)
+
+Then install dependencies:
+```
 npm install
 ```
 
